@@ -1,2 +1,3 @@
 # Saitama-Connect
-A web directory that connects communities in Saitama Prefecture, Japan.
+
+This is an English language web directory that helps connect the English speaking foreigners living in various spots in Saitama, Japan.
